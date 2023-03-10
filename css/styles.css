@@ -1,0 +1,11 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+td{
+	border:1px solid black;
+    text-align: center;
+}
+.four{
+    background-color: skyblue;
+}
